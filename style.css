@@ -1,0 +1,20 @@
+label {
+    min-width: 615px;
+    display: inline-block;
+    text-align: right
+}
+input {
+    width: 100px;
+    margin-bottom: 20px;
+}
+th {
+    text-align: left;
+    min-width: 100px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
